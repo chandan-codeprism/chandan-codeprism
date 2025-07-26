@@ -34,12 +34,13 @@ Currently working on Spring Boot microservices, database optimization, and notif
 
 ## 📊 GitHub Stats
 
-![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**your-github-username**&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-username**&layout=compact&theme=tokyonight)
+![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandan-codeprism&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-codeprism&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/**your-linkedin-id**)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**your-email**)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
