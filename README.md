@@ -1,7 +1,7 @@
 # Hello 👋, I'm Chandan Rai
 
 I am a Software Developer with a passion for AI, backend engineering, and scalable systems.  
-Currently working on Spring Boot microservices, database optimization, and notification systems using Twilio WhatsApp APIs.
+Currently working on Spring Boot microservices, database optimization, and notification systems.
 
 ---
 
