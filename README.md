@@ -45,36 +45,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=chandan-codeprism&theme=radical&no-frame=true&row=1&column=7" />
 
----
-
-## 🏅 GitHub Metrics
-
-<img src="https://github-metrics.vercel.app/user/chandan-codeprism?template=classic&config.timezone=Asia%2FKolkata" />
-
----
-
-## 📈 GitHub CLI Contribution Stats
-
-> Generated using [`github-contribution-stats`](https://github.com/LordDashMe/github-contribution-stats)
-
-<pre>
-GitHub Contribution Stats for "chandan-codeprism"
-======================================
-🔢 Total Contributions: 1234  
-📦 Repositories Contributed To: 56  
-🔥 Longest Streak: 50 days  
-⏳ Current Streak: 10 days  
-📅 First Contribution: 2021-04-14  
-</pre>
-
-<!--
-To auto-update this section:
-- Install tool: composer global require lorddashme/github-contribution-stats
-- Use GitHub Actions as described in the repo
--->
-
----
-
 ## 📫 Connect with Me
 
 <a href="mailto:chandan-rai@codeprism.in">
