@@ -5,7 +5,8 @@
 
 ## 👨‍💻 Developer at Work
 
-https://cdn.pasteboard.co/69SLzhWAacNi.gif
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c1fd27b3-7e8f-465b-bb71-b15f8f84b284" />
+
 
 ---
 
