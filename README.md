@@ -3,51 +3,35 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Developer at Work
 
-- 🔭 I’m currently working on **microservices, WhatsApp notification APIs, and DB optimization**
-- 🌱 Currently learning: **Kubernetes, Redis, and performance tuning**
-- 💬 Ask me about **Java, Spring Boot, MySQL, Twilio, Docker**
-- 📫 Reach me at: **chandan-rai@codeprism.in**
-- ⚡ Fun fact: I sometimes automate things just for fun!
+<img src="https://pasteboard.co/69SLzhWAacNi.gif" alt="Developer at work" width="100%"/>
 
 ---
 
-## 👨‍💻 Developer at Work
+## 🚀 About Me
 
-<img src="https://pasteboard.co/69SLzhWAacNi.gif" alt="Developer at work" width="600"/>
+- 🔭 Working on microservices & WhatsApp APIs  
+- 🌱 Learning Kubernetes & Redis  
+- 💬 Ask me about Java, Spring Boot, MySQL  
+- 📫 Reach me: chandan-rai@codeprism.in  
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=chandan-codeprism&show_icons=true&theme=radical" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-codeprism&theme=radical" height="180"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandan-codeprism&theme=radical&no-frame=true&row=1&column=7" />
 
 ## 📫 Connect with Me
 
 <a href="mailto:chandan-rai@codeprism.in">
   <img src="https://img.shields.io/badge/Gmail-chandan--rai@codeprism.in-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-
