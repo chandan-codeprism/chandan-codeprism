@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Developer at Work
 
-<img src="https://pasteboard.co/69SLzhWAacNi.gif" alt="Developer at work" width="100%"/>
+<img src="https://cdn.pasteboard.co/69SLzhWAacNi.gif" alt="Developer at work" width="100%" />
 
 ---
 
