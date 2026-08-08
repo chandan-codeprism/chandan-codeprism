@@ -58,6 +58,31 @@ Lately: **Spring AI + Model Context Protocol** servers, and keeping my Neovim co
 
 ---
 
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/chandan-codeprism?tab=achievements">
+  <img width="72" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark x3"/>
+</a>
+<a href="https://github.com/chandan-codeprism?tab=achievements">
+  <img width="72" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire x3"/>
+</a>
+<a href="https://github.com/chandan-codeprism?tab=achievements">
+  <img width="72" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw"/>
+</a>
+<a href="https://github.com/chandan-codeprism?tab=achievements">
+  <img width="72" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO"/>
+</a>
+
+| 🦈 **Pull Shark** `x3` | 👯 **Pair Extraordinaire** `x3` | ⚡ **Quickdraw** | 🎯 **YOLO** |
+|:---:|:---:|:---:|:---:|
+| Merged pull requests | Co-authored commits | Issue/PR closed in under 5 minutes | Merged without review |
+
+</div>
+
+---
+
 ## 📊 By the Numbers
 
 <div align="center">
