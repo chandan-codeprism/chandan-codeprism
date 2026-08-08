@@ -66,7 +66,7 @@ Lately: **Spring AI + Model Context Protocol** servers, and keeping my Neovim co
 |:---:|:---:|:---:|:---:|
 | **3,276** | **730** | **94%** | **5** |
 
-<sub>Since September 2021. The majority of my work lives in private company repositories — the public repos below are what I can show.</sub>
+<sub>Since September 2021. The majority of my work lives in private company repositories.</sub>
 
 </div>
 
@@ -78,40 +78,6 @@ Lately: **Spring AI + Model Context Protocol** servers, and keeping my Neovim co
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chandan-codeprism&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 </div>
-
----
-
-## 🚀 Featured Work
-
-### 🤖 [task-management-mcp-server](https://github.com/chandan-codeprism/task-management-mcp-server)
-`Java` `Spring Boot` `Spring AI` `MCP` `MySQL`
-
-A Model Context Protocol server that lets an LLM create, organize, assign and track tasks through natural language. Built on Spring AI's MCP server starter with JPA persistence and bean-validated tool schemas — an AI agent talks to it, real rows land in MySQL.
-
-### 🏥 [HealthCareApplication](https://github.com/chandan-codeprism/HealthCareApplication)
-`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Thymeleaf`
-
-Full-stack healthcare management system — role-based access via Spring Security, transactional JPA data layer, Apache POI report exports, and transactional email. Server-rendered Thymeleaf frontend.
-
-### 🌸 [bloomfilter-demo](https://github.com/chandan-codeprism/bloomfilter-demo)
-`Java` `Spring Boot` `Data Structures`
-
-An interactive walkthrough of Bloom filters: watch false-positive rate move as you tune bit-array size and hash count. Built because probabilistic data structures are easier to trust once you've seen one lie to you.
-
-### 🔍 [grpc-swagger](https://github.com/chandan-codeprism/grpc-swagger)
-`Java` `gRPC` `Protobuf` `OpenAPI`
-
-Debug gRPC services from a Swagger UI. Reflects on protobuf service descriptors at runtime and exposes them as browsable, callable HTTP endpoints — no `.proto` file hunting, no grpcurl incantations.
-
-### ☕ [java-visualizer](https://github.com/chandan-codeprism/java-visualizer)
-`HTML` `JavaScript` `CSS`
-
-A dashboard that renders Java program internals visually — built for the moment "just read the stack trace" stops being useful advice.
-
-### ⚡ [nvim](https://github.com/chandan-codeprism/nvim) · [ui](https://github.com/chandan-codeprism/ui)
-`Lua` `Neovim` `NvChad`
-
-My daily driver: a tuned Neovim distribution plus a lightweight, high-performance UI plugin for NvChad. ~106 KB of Lua that boots faster than a splash screen.
 
 ---
 
