@@ -70,14 +70,31 @@ Lately: **Spring AI + Model Context Protocol** servers, and keeping my Neovim co
 
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandan-codeprism&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-codeprism&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</div>
+### Contributions by Year
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandan-codeprism&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+
+| 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 73 | **1,308** | 790 | 372 | 360 | 373 |
+
+<sub>2026 counted through August. Public repos: 21 · Pull requests: 12 · Issues opened: 2</sub>
+
 </div>
+
+### 💻 Language Breakdown
+
+```text
+Java         ████████████████████  38.7%   245 KB
+HTML         ████████████████░░░░  30.3%   192 KB
+Lua          █████████░░░░░░░░░░░  16.7%   106 KB
+CSS          ███░░░░░░░░░░░░░░░░░   5.6%    35 KB
+TypeScript   ██░░░░░░░░░░░░░░░░░░   4.8%    30 KB
+JavaScript   ██░░░░░░░░░░░░░░░░░░   3.8%    24 KB
+Other        ░░░░░░░░░░░░░░░░░░░░   0.2%     1 KB
+```
+
+<sub>Measured across all owned repositories — 633 KB of source. Bars scaled to the largest language.</sub>
 
 ---
 
